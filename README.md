@@ -6,10 +6,24 @@ Progress View is written in Swift language for iOS Apps.
 
 ![iOS Progress View](https://user-images.githubusercontent.com/45048950/74955442-a0764600-543f-11ea-962c-14503683cf0b.gif)
 
-### Code Editor
+### Requirements :
 
-* (https://developer.apple.com/xcode/ide)
+* Xcode Editor
 
-### Project Link
+* iOS 13.3 or latest version
 
-* (https://github.com/Padman83/iOS-Progress-View)
+### Installation :
+
+### Open in Xcode, go to source control -> clone -> enter repository URL.
+
+```
+https://github.com/Padman83/iOS-Progress-View.git
+```
+
+### Or Use the Terminal.
+
+```
+git clone https://github.com/Padman83/iOS-Progress-View.git
+```
+
+
